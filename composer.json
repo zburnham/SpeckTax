@@ -1,5 +1,5 @@
 {
-    "name": "zburnham/speck-tax",
+    "name": "speckcommerce/speck-tax",
     "description": "Tax rules module for the ecommerce platform SpeckCommerce",
     "type": "library",
     "minimum-stability": "dev",
@@ -7,7 +7,7 @@
         "zf2",
         "speckcommerce"
     ],
-    "homepage": "http://github.com/zburnham/SpeckTax",
+    "homepage": "http://github.com/speckcommerce/SpeckTax",
     "authors": [
     ],
     "require": {
